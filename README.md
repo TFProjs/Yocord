@@ -1,5 +1,4 @@
-# Yocord - !TESTING!
-**Home - https://tfprojs.github.io/Yocord/Home.html**
+# Yocord
 --------------------
 **Credits:**
 **Owner/Dev - TooFoo/Wes**
